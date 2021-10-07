@@ -235,17 +235,93 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [ ] Translation in different language
 - [ ] Cheatsheets
 
-## FAQ
-1. Which programming languages should I use?
-Python and R. However, I added materials on Python.
+------------------------------------------------------------------------------------------------------------------------------
+Step 1) Python & NumPy & Pandas
 
-2. How to contribute?
-Check out [contribution guidelines](#contribution-guidelines).
+Learn Python
+NumPy Tutorial for Beginner
+Step-by-step Pandas Tutorial For Beginner
+Step 2) Data Science
 
+Data Science Tutorial for Beginners
+The Data Scientist’s Toolbox Tutorial
+An Interactive Data Science Tutorial
+10 Steps to Become a Data Scientist
+Detailed Cleaning/Visualization (Python)
+Linear Algebra for Data Scientists
+Data Cleaning Challenge: Scale and Normalize Data
+Data Cleaning Challenge: Handling missing values
+Data Cleaning Challenge: Inconsistent Data Entry
+Data Cleaning Challenge: Parsing Dates
+Data Cleaning Challenge: Character Encodings
+FIFA World Cup (1930 to 2014) - Data analysis
+A Very Extensive Kiva Exploratory Analysis
+Step 3) Data Visualization
 
-## Contribution guideline
-You can [open an issue](https://github.com/durgeshsamariya/data-science-roadmap/issues) and give your suggestions as to how I can improve this guide, or what I can do to improve the learning experience.
+Matplotlib Tutorial for Beginners
+Seaborn Tutorial for Beginners
+Plotly Tutorial for Beginners
+Rare Visualization Tools
+Visualization: Bokeh Tutorial Part 1
+Interactive Bokeh Tutorial Part 2
+Earthquake Animation with Plotly
+Welcome to data visualization
+Geolocation visualisations
+PLOTLY TUTORIAL - 1
+PLOTLY TUTORIAL - 2
+PLOTLY TUTORIAL - 3
+PLOTLY TUTORIAL - 4
+PLOTLY TUTORIAL - 5
+Intermediate visualization tutorial using Plotly
+Step 4) Machine Learning
 
-You can also **fork this repo** and send a **pull request** to fix any mistakes that you have found.
+Machine Learning Tutorial for Beginners
+10 Classifier Showdown in Scikit-Learn
+Step 5) Deep Learning
 
-If you want to suggest a new resource, send a pull request adding such resource to the extras section. The extras section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
+Deep Learning Tutorial for Beginners
+Pytorch Tutorial for Deep Learning Lovers
+Introduction to CNN Keras - 0.997 (top 6%)
+Zero to Hero in Pytorch(ML+DL+RL)
+Welcome to deep learning (CNN 99%)
+MNIST with Keras for Beginners(.99457)
+Recurrent Neural Network with Pytorch
+Step 6) Statistical Learning
+
+Statistical Learning Tutorial for Beginners
+Other Step
+
+Essential Math & Statistics
+Linear Algebra (35%) Statistics & Probability (25%) Calculus (15%) Optimization & Algorithms (15%) Other (10%)
+
+Linear Algebra
+Inferentail Statistics
+Probability Theory
+Basic Calculus
+Linear Programming
+Data Structures
+Week by Week Roadmap
+Week 1
+
+Learn Python
+Week 2
+
+Learn NumPy & Pandas
+Week 3
+
+Learn Data Science Tutorial
+Week 4
+
+Learn Data Visualization Tools
+Week 5-6
+
+Learn Machine Learning
+Week 7-8
+
+Learn Deep Learning
+Bonus Resource
+
+A practical approach to machine learning
+Explonation of Machine Learning Algorithms with Picture
+101 Pandas & NumPy Exercies for Data Analysis - Python
+Conclucion
